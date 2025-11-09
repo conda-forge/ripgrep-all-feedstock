@@ -1,5 +1,5 @@
 context:
-  version: "0.10.9"
+  version: "0.10.10"
 
 package:
   name: ripgrep-all
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/phiresky/ripgrep-all/archive/v${{ version }}.tar.gz
-  sha256: a5b3150940dcddd35a26e9de398f11a563d0466a335e5450ceb7ff369e9fef45
+  sha256: 17fadc7b73a51608d57f82b4a11f3edc0da87716cc4b302103eed9d4b9010fe5
 
 build:
   number: 0
